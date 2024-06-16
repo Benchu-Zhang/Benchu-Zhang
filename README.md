@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benchu Zhang
-- 👀 I’m interested in **optimization**   
-- 🌱 I’m currently learning **Convex Optimization** and **Routing** 
-- 💞️ I’m looking to collaborate on **Optimization**
+- 👀 I’m interested in **optimization** and **routing**  
+- 🌱 I’m currently learning **Python** and **C++** 
+- 💞️ I am looking for cooperation on **Meta Universe website development (www.bentaa.com)**
 - 📫 How to reach me: zhangbc9@gmail.com
 
 <!---
